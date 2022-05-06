@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chris
-- I am an IT professional that has 20+ years of experience. I have had to use scripting for numerous task, and figured I would share some of the things I have written.
-- There are several Branches of Scripts I write, to find them look below:
-- 
+👋 Hi, I’m Chris
+I am an IT professional that has 20+ years of experience. I have had to use scripting for numerous task, and figured I would share some of the things I have written.
+
+There are several Branches of Scripts I write, to find them look below:
 - CyberPatriot - Coming Soon
 - Intune - https://github.com/wisper1977/wisper1977/tree/Intune
 - Python - Coming Soon
