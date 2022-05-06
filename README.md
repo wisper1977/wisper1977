@@ -2,7 +2,7 @@
 I am an IT professional that has 20+ years of experience. I have had to use scripting for numerous task, and figured I would share some of the things I have written.
 
 There are several Branches of Scripts I write, to find them look below:
-- CyberPatriot - Coming Soon
+- CyberPatriot - https://github.com/wisper1977/CyberPatriot
 - Intune - https://github.com/wisper1977/Intune
 - Python - https://github.com/wisper1977/Python
 - Windows - https://github.com/wisper1977/Windows
