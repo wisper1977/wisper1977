@@ -3,9 +3,9 @@ I am an IT professional that has 20+ years of experience. I have had to use scri
 
 There are several Branches of Scripts I write, to find them look below:
 - CyberPatriot - Coming Soon
-- Intune - https://github.com/wisper1977/wisper1977/tree/Intune
-- Python - https://github.com/wisper1977/wisper1977/tree/Python
-- Windows - https://github.com/wisper1977/wisper1977/tree/Windows
+- Intune - https://github.com/wisper1977/Intune
+- Python - https://github.com/wisper1977/Python
+- Windows - https://github.com/wisper1977/Windows
 
 
 <!---
